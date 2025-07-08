@@ -30,6 +30,6 @@
 	"dependencies": {
 		"@octokit/core": "^3.6.0",
 		"js-base64": "^3.7.2",
-		"standard-version": "^9.3.2"
+		"standard-version": "^9.5.0"
 	}
 }
